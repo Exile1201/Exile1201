@@ -27,6 +27,16 @@ Sometime I'm never an easy person when it comes to coding when I just get a bit 
 <!--
 **Exile1201/Exile1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Other
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/exile1201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="exile1201" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/exile1201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="exile1201" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 ### etc
 Here are some ideas to get you started:
 
