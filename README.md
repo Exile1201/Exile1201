@@ -6,7 +6,7 @@ I'm a coder but not much of a pro, I have been doinf HTML, CSS and Python helpin
 
 Sometime I'm never an easy person when it comes to coding when I just get a bit mad when I can't fix a dam problem
 
-<img src="https://github.com/Exile1201/Exile1201/blob/main/image/tenor.gif" width="400" height="200" />
+<img src="https://github.com/Exile1201/Exile1201/blob/main/image/tenor.gif" width="200" height="100" />
 
 
 ## Personal Things
@@ -18,7 +18,7 @@ Sometime I'm never an easy person when it comes to coding when I just get a bit 
 
 ## Social Media
 
-![Twitter Follow](https://img.shields.io/twitter/follow/exile1201?style=social)
+![https://twitter.com/exile1201](https://img.shields.io/twitter/follow/exile1201?style=social)
 
 
 ## Repos
